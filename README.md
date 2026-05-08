@@ -12,7 +12,6 @@ This dashboard analyzes:
 
 The project focuses on transforming raw e-commerce data into meaningful business insights through interactive visualizations and dashboard storytelling.
 
----
 
 ## 🔹 Dashboard Features
 - KPI tracking and sales analysis
@@ -23,7 +22,7 @@ The project focuses on transforming raw e-commerce data into meaningful business
 - Scatter plot analysis for sales vs orders
 - Interactive slicers and filtering
 
----
+
 
 ## 🛠️ Tools & Technologies Used
 - Power BI
@@ -33,7 +32,7 @@ The project focuses on transforming raw e-commerce data into meaningful business
 - Data Visualization
 - Kaggle Dataset (Brazilian Olist E-commerce Data)
 
----
+
 
 ## 📈 Key Insights
 - Health Beauty emerged as the top-performing category by sales.
@@ -41,7 +40,7 @@ The project focuses on transforming raw e-commerce data into meaningful business
 - Categories with higher order volume generally generated higher sales.
 - Average basket size remained around 1–2 items per order.
 
----
+
 
 ## 📸 Dashboard Preview
 
@@ -51,12 +50,19 @@ The project focuses on transforming raw e-commerce data into meaningful business
 ### Page 2 — Customer & Product Insights
 <img width="697" height="391" alt="ecommercedashboard2" src="https://github.com/user-attachments/assets/b5ffc2e8-712b-4625-9ec9-2cc749829f59" />
 
----
+
 
 ## 📂 Dataset Source
 Brazilian Olist E-commerce Dataset from Kaggle
 
----
+
+
+## ✅ Conclusion
+
+This project helped strengthen my understanding of data modeling, DAX calculations, Power Query transformations, and interactive dashboard design in Power BI.  
+
+By analyzing e-commerce sales, customer behavior, and product performance, the dashboard demonstrates how business data can be transformed into actionable insights through effective visualization and storytelling.
+
 
 ## ⚠️ Note
 PBIX file and raw dataset files are not included in this repository due to file size limitations.
